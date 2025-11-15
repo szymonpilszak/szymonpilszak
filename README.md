@@ -25,7 +25,6 @@ Currently focused on expanding automation skills using Python to support and opt
   <img src="https://img.shields.io/badge/Tessy-0A74DA?style=for-the-badge&logo=testing-library&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Ceedling-000000?style=for-the-badge&logo=cees&logoColor=white" /> 
   <img src="https://img.shields.io/badge/RobotFramework-006F7A?style=for-the-badge&logo=robot-framework&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" /> 
 </p>
 
 
