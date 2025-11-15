@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Szymon Piłszak</h1>
+<h1 align="center">Hi 👋, I'm Szymon Pilszak</h1>
 
 <p align="center">
-  QA Engineer / Embedded Software Tester (Automotive)<br>
-  🔧 Testing • Automation • Diagnostics • Continuous Improvement
+  QA Engineer / Automotive Software Tester<br>
+  🔧 Testing • Automation • Continuous Improvement
 </p>
 
 ---
@@ -32,10 +32,11 @@
 - Python (test utilities, log processing, automation tasks)  
 - Ceedling + Unity/CMock (C unit testing)  
 - gcovr (code coverage)  
-- Playwright (learning / web automation)  
+- Playwright (learning / web automation)
+- RobotFramework  
 
 ### **Tools & Processes**
-- Tessy, Ceedling, Jenkins, GitHub Actions  
+- Tessy, CANoe, Ceedling, Jenkins, GitHub Actions  
 - Jira, Redmine, Git, SVN  
 - ASPICE basics, Agile/Scrum  
 
