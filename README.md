@@ -40,7 +40,6 @@ Currently focused on expanding automation skills using Python to support and opt
     <li>Embedded C software testing</li>
     <li>Requirements traceability & defect lifecycle</li>
     <li>Test analysis, reporting, documentation</li>
-    <li>Exploratory & functional testing</li>
   </ul>
 
   <h3>🤖 Automation & Scripting</h3>
@@ -56,18 +55,19 @@ Currently focused on expanding automation skills using Python to support and opt
 <!-- PRAWA KOLUMNA -->
 <td width="50%" valign="top">
 
-  <h3>🚗 Automotive & Diagnostics</h3>
+  <h3>🚗 Automotive domain</h3>
   <ul>
     <li>Communication protocols: <b>CAN, LIN, UDS</b></li>
     <li>CAPL scripting</li>
     <li>Signal tracing, simulations, diagnostics verification</li>
+    <li>ISO 26262, ASPICE</li>
   </ul>
-    <br>
+  
   <h3>🧰 Tools & Processes</h3>
   <ul>
     <li>Tessy, CANoe, Jenkins, GitHub Actions</li>
     <li>Jira, Redmine, Git, SVN</li>
-    <li>ISTQB, SDLC, ASPICE, Agile/Scrum</li>
+    <li>ISTQB, SDLC, Agile/Scrum</li>
   </ul>
 
 </td>
