@@ -9,7 +9,7 @@
 
 ## 🧩 About Me
 QA Engineer with 3 years of experience in embedded software testing within the automotive domain.
-Hands-on experience working with tools such as CANoe, CAPL, Tessy, and Python.
+
 Currently focused on expanding automation skills using Python to support and optimize testing workflows.
 
 ---
