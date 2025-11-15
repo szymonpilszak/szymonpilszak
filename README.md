@@ -15,16 +15,19 @@ Currently focused on expanding automation skills using Python to support and opt
 ---
 
 ## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CAPL-FF6F00?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/CANoe/CANalyzer-0A74DA?style=for-the-badge&logo=vectorworks&logoColor=white" />
+<p> 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CAPL-FF6F00?style=for-the-badge&logo=codeigniter&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Tessy-0A74DA?style=for-the-badge&logo=testing-library&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Ceedling-000000?style=for-the-badge&logo=cees&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/RobotFramework-006F7A?style=for-the-badge&logo=robot-framework&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" /> 
 </p>
+
 
 ---
 
