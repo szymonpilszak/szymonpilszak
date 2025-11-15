@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Szymon Pilszak</h1>
+<h1 align="center">Hi there 👋, I'm Szymon </h1>
 
 <p align="center">
   QA Engineer • Automotive Software Tester  
