@@ -32,48 +32,47 @@ Currently focused on expanding automation skills using Python to support and opt
 
 ## 🔧 Skills Overview
 
-<table>
-  <tr>
-    <!-- LEWA KOLUMNA -->
-    <td width="50%" valign="top">
+<table> <tr> <!-- LEWA KOLUMNA --> <td width="50%" valign="top">
+   <h3>🔍 Quality Assurance / Testing</h3>
+  <ul>
+    <li>Unit, Integration & Regression testing</li>
+    <li>Embedded C software testing</li>
+    <li>Requirements traceability & defect lifecycle</li>
+    <li>Test analysis, reporting, documentation</li>
+    <li>Exploratory & functional testing</li>
+  </ul>
 
-      ### 🔍 Quality Assurance / Testing
-      - Unit, Integration & Regression testing  
-      - Embedded C software testing  
-      - Requirements traceability & defect lifecycle  
-      - Test analysis, reporting, documentation  
-      - Exploratory & functional testing  
+  <h3>🤖 Automation & Scripting</h3>
+  <ul>
+    <li>Python (utilities, log parsing, automation helpers)</li>
+    <li>Ceedling + Unity/CMock (unit testing for C)</li>
+    <li>gcovr (code coverage)</li>
+    <li>Playwright (web automation)</li>
+    <li>RobotFramework (web automation)</li>
+  </ul>
 
-      <br/>
+</td>
 
-      ### 🤖 Automation & Scripting
-      - Python (utilities, log parsing, automation helpers)  
-      - Ceedling + Unity/CMock (unit testing for C)  
-      - gcovr (code coverage)  
-      - Playwright (web automation)  
-      - RobotFramework (web automation)
+<!-- PRAWA KOLUMNA -->
+<td width="50%" valign="top">
 
-    </td>
+  <h3>🚗 Automotive & Diagnostics</h3>
+  <ul>
+    <li>Vector tools: <b>CANoe / CANalyzer</b></li>
+    <li>Communication protocols: <b>CAN, LIN, UDS</b></li>
+    <li>CAPL scripting for automation</li>
+    <li>Signal tracing, simulations, diagnostics verification</li>
+  </ul>
 
-    <!-- PRAWA KOLUMNA -->
-    <td width="50%" valign="top">
+  <h3>🧰 Tools & Processes</h3>
+  <ul>
+    <li>Tessy, CANoe, Jenkins, GitHub Actions</li>
+    <li>Jira, Redmine, Git, SVN</li>
+    <li>SDLC, ASPICE, Agile/Scrum</li>
+  </ul>
 
-      ### 🚗 Automotive & Diagnostics
-      - Vector tools: **CANoe / CANalyzer**  
-      - Communication protocols: **CAN, LIN, UDS**  
-      - CAPL scripting for automation  
-      - Signal tracing, simulations, diagnostics verification  
-
-      <br/>
-
-      ### 🧰 Tools & Processes
-      - Tessy, CANoe, Jenkins, GitHub Actions  
-      - Jira, Redmine, Git, SVN  
-      - SDLC, ASPICE, Agile/Scrum  
-
-    </td>
-  </tr>
-</table>
+</td>
+</tr> </table>
 
 ---
 
