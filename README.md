@@ -28,36 +28,55 @@ Currently focused on expanding automation skills using Python to support and opt
 
 ---
 
-## 🔍 Quality Assurance / Testing
-- Unit, Integration & Regression testing  
-- Embedded C software testing  
-- Requirements traceability & defect lifecycle  
-- Test analysis, reporting, documentation  
-- Exploratory & functional testing  
+---
+
+## 🔧 Skills Overview
+
+<table>
+  <tr>
+    <!-- LEWA KOLUMNA -->
+    <td width="50%" valign="top">
+
+      ### 🔍 Quality Assurance / Testing
+      - Unit, Integration & Regression testing  
+      - Embedded C software testing  
+      - Requirements traceability & defect lifecycle  
+      - Test analysis, reporting, documentation  
+      - Exploratory & functional testing  
+
+      <br/>
+
+      ### 🤖 Automation & Scripting
+      - Python (utilities, log parsing, automation helpers)  
+      - Ceedling + Unity/CMock (unit testing for C)  
+      - gcovr (code coverage)  
+      - Playwright (web automation)  
+      - RobotFramework (web automation)
+
+    </td>
+
+    <!-- PRAWA KOLUMNA -->
+    <td width="50%" valign="top">
+
+      ### 🚗 Automotive & Diagnostics
+      - Vector tools: **CANoe / CANalyzer**  
+      - Communication protocols: **CAN, LIN, UDS**  
+      - CAPL scripting for automation  
+      - Signal tracing, simulations, diagnostics verification  
+
+      <br/>
+
+      ### 🧰 Tools & Processes
+      - Tessy, CANoe, Jenkins, GitHub Actions  
+      - Jira, Redmine, Git, SVN  
+      - SDLC, ASPICE, Agile/Scrum  
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚗 Automotive & Diagnostics  
-- Vector tools: **CANoe / CANalyzer**  
-- Communication protocols: **CAN, LIN, UDS**  
-- CAPL scripting for automation  
-- Signal tracing, simulations, diagnostics verification  
-
----
-
-## 🤖 Automation & Scripting
-- Python (utilities, log parsing, automation helpers)  
-- Ceedling + Unity/CMock (unit testing for C)  
-- gcovr (code coverage)  
-- Playwright (web automation)
-- RobotFramework (web automation) 
-
----
-
-## 🧰 Tools & Processes
-- Tessy, CANoe, Jenkins, GitHub Actions  
-- Jira, Redmine, Git, SVN  
-- SDLC, ASPICE, Agile/Scrum  
 
 ---
 
