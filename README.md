@@ -8,14 +8,14 @@
 ---
 
 ## 🧩 About Me
-QA Engineer with a passion for embedded software testing, diagnostics and automation.  
-I enjoy improving testing workflows, building useful utilities, and ensuring quality in automotive systems.
+QA Engineer with 3 years of experience in embedded software testing within the automotive domain.
+Hands-on experience working with tools such as CANoe, CAPL, Tessy, and Python.
+Currently focused on expanding automation skills using Python to support and optimize testing workflows.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<!-- Każdy „badge” wygląda jak u Hussaina: ikonka + nazwa -->
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
