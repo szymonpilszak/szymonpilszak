@@ -62,8 +62,8 @@ Currently focused on expanding automation skills using Python to support and opt
     <li>CAPL scripting</li>
     <li>Signal tracing, simulations, diagnostics verification</li>
   </ul>
-  \n
-  \n
+    <li></li>
+    <li></li>
   <h3>🧰 Tools & Processes</h3>
   <ul>
     <li>Tessy, CANoe, Jenkins, GitHub Actions</li>
