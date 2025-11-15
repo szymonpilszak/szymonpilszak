@@ -2,7 +2,7 @@
 
 <p align="center">
   QA Engineer • Automotive Software Tester  
-  🔧 Testing • Automation • Continuous Improvement
+  Automation • Continuous Improvement
 </p>
 
 ---
