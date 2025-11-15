@@ -63,7 +63,6 @@ Currently focused on expanding automation skills using Python to support and opt
     <li>Signal tracing, simulations, diagnostics verification</li>
   </ul>
     <br>
-    <br>
   <h3>🧰 Tools & Processes</h3>
   <ul>
     <li>Tessy, CANoe, Jenkins, GitHub Actions</li>
