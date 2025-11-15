@@ -75,29 +75,6 @@ Currently focused on expanding automation skills using Python to support and opt
 </td>
 </tr> </table>
 
----
-
-
----
-
-## 🚀 Projects
-
-### 🔹 **Ceedling-Test-Project-UDS**  
-**Repository:** [https://github.com/szymonpilszak/Ceedling-Test-Project-UDS  ](https://github.com/szymonpilszak/Ceedling-Test-Project-UDS)
-- Unit tests using **Ceedling + CMock**  
-- Code coverage via **gcovr**  
-- Automated GitHub Actions workflow  
-
----
-
-### 🔹 **Python Automation Scripts**  
-**Repository:** [RobotFramework-Test-Project-CodersGuru  ](https://github.com/szymonpilszak/RobotFramework-Test-Project-CodersGuru)
-- Automated test cases implemented in Robot Framework
-- Using **SeleniumLibrary**
-- Test execution reports 
-
----
-
 
 ---
 
@@ -114,8 +91,3 @@ Currently focused on expanding automation skills using Python to support and opt
 > “Continuous learning is the core of becoming a better engineer.”
 
 ---
-
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=szymonpilszak&show_icons=true&theme=radical" />
-</p>
