@@ -91,7 +91,7 @@ Currently focused on expanding automation skills using Python to support and opt
 ---
 
 ### 🔹 **Python Automation Scripts**  
-**Repository:** [https://github.com/szymonpilszak/Ceedling-Test-Project-UDS  ](https://github.com/szymonpilszak/RobotFramework-Test-Project-CodersGuru)
+**Repository:** [RobotFramework-Test-Project-CodersGuru  ](https://github.com/szymonpilszak/RobotFramework-Test-Project-CodersGuru)
 - Automated test cases implemented in Robot Framework
 - Using **SeleniumLibrary**
 - Test execution reports 
