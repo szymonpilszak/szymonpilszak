@@ -84,7 +84,7 @@ Currently focused on expanding automation skills using Python to support and opt
 
 ## 📫 Contact  
 <p align="left">
-  <a href="https://www.linkedin.com/in/szymonpilszak">
+  <a href="https://www.linkedin.com/in/szymon-pilszak/">
     <img src="https://img.shields.io/badge/LinkedIn-SzymonPilszak-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:szymonpilszak@gmail.com">
