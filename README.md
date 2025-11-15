@@ -47,9 +47,8 @@ Currently focused on expanding automation skills using Python to support and opt
 
   <h3>🤖 Automation & Scripting</h3>
   <ul>
-    <li>Python (utilities, log parsing, automation helpers)</li>
+    <li>Python (log parsing, automation helpers, unit testing)</li>
     <li>Ceedling + Unity/CMock (unit testing for C)</li>
-    <li>gcovr (code coverage)</li>
     <li>Playwright (web automation)</li>
     <li>RobotFramework (web automation)</li>
   </ul>
@@ -61,9 +60,8 @@ Currently focused on expanding automation skills using Python to support and opt
 
   <h3>🚗 Automotive & Diagnostics</h3>
   <ul>
-    <li>Vector tools: <b>CANoe / CANalyzer</b></li>
     <li>Communication protocols: <b>CAN, LIN, UDS</b></li>
-    <li>CAPL scripting for automation</li>
+    <li>CAPL scripting</li>
     <li>Signal tracing, simulations, diagnostics verification</li>
   </ul>
 
@@ -71,7 +69,7 @@ Currently focused on expanding automation skills using Python to support and opt
   <ul>
     <li>Tessy, CANoe, Jenkins, GitHub Actions</li>
     <li>Jira, Redmine, Git, SVN</li>
-    <li>SDLC, ASPICE, Agile/Scrum</li>
+    <li>ISTQB, SDLC, ASPICE, Agile/Scrum</li>
   </ul>
 
 </td>
