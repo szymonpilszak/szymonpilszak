@@ -44,8 +44,8 @@ Currently focused on expanding automation skills using Python to support and opt
 
   <h3>🤖 Automation & Scripting</h3>
   <ul>
-    <li>Python (log parsing, automation helpers, unit testing)</li>
-    <li>Ceedling + Unity/CMock (unit testing for C)</li>
+    <li>Python (automation helpers, unit testing)</li>
+    <li>Ceedling (unit testing for C)</li>
     <li>Playwright (web automation)</li>
     <li>RobotFramework (web automation)</li>
   </ul>
