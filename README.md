@@ -82,7 +82,7 @@ Currently focused on expanding automation skills using Python to support and opt
     <img src="https://img.shields.io/badge/LinkedIn-SzymonPilszak-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:szymonpilszak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-szymonpilszak@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-szymon.pilszak@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
