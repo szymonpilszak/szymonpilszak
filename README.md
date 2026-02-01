@@ -66,9 +66,9 @@ Currently focused on expanding automation skills using Python to support and opt
   
   <h3>🧰 Tools & Processes</h3>
   <ul>
-    <li>Tessy, CANoe, Jenkins, GitHub Actions</li>
-    <li>Jira, Redmine, Git, SVN</li>
-    <li>ISTQB, SDLC, Agile/Scrum</li>
+    <li>Postman, Pytest, Tessy, CANoe, Jenkins, GitHub Actions</li>
+    <li>Jira, Redmine, Git, SVN, Windows Server</li>
+    <li>ISTQB, SDLC, DNS, DHCP, Agile/Scrum</li>
   </ul>
 
 </td>
