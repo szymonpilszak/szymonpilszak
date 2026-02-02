@@ -12,6 +12,9 @@ QA Engineer with 3 years of experience in embedded software testing within the a
 
 Currently focused on expanding automation skills using Python to support and optimize testing workflows.
 
+Looking for opportunities to shift my technology stack toward web applications and further
+develop my quality assurance competencies !
+
 ---
 
 ## 🛠️ Tech Stack
