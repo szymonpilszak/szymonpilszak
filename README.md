@@ -71,7 +71,7 @@ develop my quality assurance competencies.
   <ul>
     <li>Postman, Pytest, Tessy, CANoe, Jenkins, GitHub Actions</li>
     <li>Jira, Redmine, Git, SVN, Windows Server</li>
-    <li>ISTQB® CTFL CTFL, SDLC, DNS, DHCP, Agile/Scrum</li>
+    <li>ISTQB® CTFL, SDLC, DNS, DHCP, Agile/Scrum</li>
   </ul>
 
 </td>
