@@ -64,14 +64,14 @@ develop my quality assurance competencies.
     <li>Communication protocols: <b>CAN, LIN, UDS</b></li>
     <li>CAPL scripting</li>
     <li>Signal tracing, simulations, diagnostics verification</li>
-    <li>ISTQB Automotive, ISO 26262, ASPICE</li>
+    <li>ISTQB® Automotive, ISO 26262, ASPICE</li>
   </ul>
   
   <h3>🧰 Tools & Processes</h3>
   <ul>
     <li>Postman, Pytest, Tessy, CANoe, Jenkins, GitHub Actions</li>
     <li>Jira, Redmine, Git, SVN, Windows Server</li>
-    <li>ISTQB CTFL, SDLC, DNS, DHCP, Agile/Scrum</li>
+    <li>ISTQB® CTFL CTFL, SDLC, DNS, DHCP, Agile/Scrum</li>
   </ul>
 
 </td>
